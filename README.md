@@ -1,3 +1,4 @@
 # Description
 
-Learning CSS flexbox by building a photo gallery  
+Learning CSS flexbox by building a photo gallery
+source: freecodecamp.org
