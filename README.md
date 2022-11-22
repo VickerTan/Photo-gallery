@@ -1,2 +1,3 @@
-# Photo-gallery
-Photo gallery of cats
+# Description
+
+Learning CSS flexbox by building a photo gallery  
